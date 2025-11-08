@@ -12,7 +12,7 @@ const app = express();
 const whitelist = [
   'http://localhost:5173', // Vite default, or 3000 for CRA
   'http://localhost:3000',
-  'YOUR_VERCEL_URL_WILL_GO_HERE' // We will add this in Part 5
+  'https://lexiassist-zeta.vercel.app/' // We will add this in Part 5
 ];
 
 const corsOptions = {
