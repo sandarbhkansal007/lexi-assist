@@ -52,8 +52,8 @@ To run this project on your local machine, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Ayushk00/LexiAssist]
-cd LexiAssist
+git clone https://github.com/sandarbhkansal007/lexi-assist
+cd lexi-assist
 ````
 
 ### 2\. Set Up the Backend
